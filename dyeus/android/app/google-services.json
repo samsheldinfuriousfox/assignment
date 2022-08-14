@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293641136417",
+    "project_id": "dyeus-aa166",
+    "storage_bucket": "dyeus-aa166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293641136417:android:0913e95e37c24cb6783660",
+        "android_client_info": {
+          "package_name": "com.example.dyeus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293641136417-ovq8ddjf04usnu7qj9pfgh6sh58c4pt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMyIjBPML54nqZZ5NXTRykCpMSmiflNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293641136417-ovq8ddjf04usnu7qj9pfgh6sh58c4pt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
