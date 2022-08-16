@@ -52,6 +52,8 @@ class OtpController extends GetxController {
       _changeStatus(false, false, true);
     }).then((UserCredential user) async {
       _changeStatus(false, true, false);
+      Get.snackbar("Alert", "Success,logged in", backgroundColor: Colors.green);
+
       Get.toNamed(RouteName.home);
     });
   }
